@@ -1,0 +1,2 @@
+# Fitness-Tracker
+This Fitness Tracker developed using PHP is an excellent solution for people who want to keep track of their calorie count and food intake to have a healthy diet and lead a healthy lifestyle. This solution helps to identify the user and manage their timely food intake and activities. Users can also add their height and weight to their profile and get their BMI calculated. The system keeps track of the calories burned as well as the calories consumed by the user. It can also generate multiple reports on a monthly, weekly, or daily, basis.
